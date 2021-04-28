@@ -1,0 +1,10 @@
+*~
+\#*
+.\#*
+*.bak
+.DS_Store
+compiled/
+/doc/
+/SuperMarketBuild/
+/TempleBuild/
+/Build/
